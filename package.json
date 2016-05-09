@@ -1,0 +1,27 @@
+{
+  "name": "api-blueprint-boilerplate",
+  "version": "0.1.0",
+  "description": "Boilerplate of api blueprint, api-mock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nishimuuuuuu",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.8.0",
+    "babel-register": "^6.8.0",
+    "gulp": "^3.9.1",
+    "gulp-aglio": "0.0.10",
+    "gulp-concat": "^2.6.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-load-plugins": "^1.2.2",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-shell": "^0.5.2",
+    "gulp-watch": "^4.3.5",
+    "gulp-webserver": "^0.9.1",
+    "js-yaml": "^3.6.0"
+  },
+  "dependencies": {}
+}

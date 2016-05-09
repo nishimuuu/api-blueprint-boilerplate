@@ -1,0 +1,8 @@
+---
+  api: 
+    src: 'doc/md/**/**.md'
+    cnct_name: 'index'
+    dst: 'doc/html'
+    doc_port: 10000
+    mock_port: 3000
+
